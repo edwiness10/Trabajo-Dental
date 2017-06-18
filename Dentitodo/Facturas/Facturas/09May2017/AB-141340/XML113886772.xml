@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" metodoDePago="03" LugarExpedicion="MEXICO, CIUDAD DE MEXICO" version="3.2" NumCtaPago="NO IDENTIFICADO" fecha="2017-05-09T17:36:38" sello="g8S0yGt2UQ/uT8yp1QBuVLrkHDSukJfLaIsng9QQvRQMJ2co3t0Paf+K+vEyxQ3JHm3sUIclE4fB9PxzFYLw517Qqn1Sve8+PBBVEmMAnJj2MGdh3Y/HbKOUwMLq/73mctiw2KQ7mA1lsZv5Ap0/WC45phe8oDB82nZYMfNeA2GpNghogoe7QFFjOLaomFpaufrsdg72z7R+tpHdEiquul4FEB7xZLomHuGlBtLbEEIZ9UwkwfqT8O2KazDnpmn0Qx5FlBRYKlmvF6ZLtSFIr1QyyV2pfAhH6JYUc5LDd1Qmek/I4viodmKO07Xopxi+R34Zh1PDDRJC17aCULBNHg==" formaDePago="PAGO EN UNA SOLA EXHIBICION" tipoDeComprobante="ingreso" noCertificado="00001000000402240494" certificado="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" subTotal="2325.020000" total="2697.040000" serie="AB" folio="141340">
+	<cfdi:Emisor rfc="DDV890119HC9" nombre="Deposito Dental Villa de Cortes S.A. de C.V.">
+		<cfdi:DomicilioFiscal calle="Calzada de Tlalpan" noExterior="836" colonia="Villa de Cortes" localidad="México" municipio="Benito Juarez" estado="Ciudad de Mexico" pais="MEXICO" codigoPostal="03530" />
+		<cfdi:RegimenFiscal Regimen="Régimen General de Ley Personas Morales"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="MORR660824G93" nombre="Rosa Isela Mota Robles">
+		<cfdi:Domicilio calle="Juan Rodríguez" noExterior="414" noInterior="6" colonia="Residencial Colón" localidad="Toluca" municipio="Toluca" estado="Estado de Mexico" pais="Mexico" codigoPostal="50120" />
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="15.000000" unidad="PZA" noIdentificacion="7501086453016" descripcion="ENJUAGUE BUCAL COMPLETE MENTA 500ML. ORAL-B" valorUnitario="33.362000" importe="500.430000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="5.000000" unidad="PZA" noIdentificacion="7501086453030" descripcion="ENJUAGUE COMPLETE HIERBABUENA 500 ML ORAL-B" valorUnitario="33.362000" importe="166.810000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="20.000000" unidad="PZA" noIdentificacion="AO856-001" descripcion="TIRA ALAMBRE .016 X .016" valorUnitario="13.251500" importe="265.030000">
+		<cfdi:InformacionAduanera numero="154732185000903" fecha="2016-08-10" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="20.000000" unidad="PZA" noIdentificacion="AO856-002" descripcion="TIRA ALAMBRE .016 X .022" valorUnitario="13.251500" importe="265.030000">
+		<cfdi:InformacionAduanera numero="154732185000135" fecha="2016-08-10" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="20.000000" unidad="PZA" noIdentificacion="AO856-006" descripcion="TIRA ALAMBRE .017 X .025" valorUnitario="13.251500" importe="265.030000">
+		<cfdi:InformacionAduanera numero="164738326002343" fecha="2016-08-10" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="25.000000" unidad="PZA" noIdentificacion="AO856-616" descripcion="TIRA ALAMBRE .016" valorUnitario="4.562000" importe="114.050000">
+		<cfdi:InformacionAduanera numero="174738327000411" fecha="2017-02-24" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="AO857-504C" descripcion="ROLLO ALAMBRE NITINOL .014" valorUnitario="374.320000" importe="374.320000">
+		<cfdi:InformacionAduanera numero="174738327000411" fecha="2017-02-24" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="AO857-506C" descripcion="ROLLO ALAMBRE NITINOL .016" valorUnitario="374.320000" importe="374.320000">
+		<cfdi:InformacionAduanera numero="174738327000411" fecha="2017-02-24" aduana="47"/>
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="372.020000">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="372.020000" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" FechaTimbrado="2017-05-09T17:36:39" UUID="F78FA9EF-3507-11E7-97D1-00155D014009" noCertificadoSAT="00001000000403557578" selloSAT="FccVtz4ApRjj0OlK9Pw3j9tzjIIJi3ZYNt8PRW2aRp3QH3aSUivP5PhT28eiVOPT1UryzBK1FpoglxGxLBW8Tdq3sg15zaegTT9U74DCU8glBYpNlJ1an6zBgtQn19X+gQFKqHAqQ/lIlKq5aB7DHCulcUMSf+cO4WI306Evo7cesmjINPdz53hkNqDRTd9R20WlMbm2KlEJwkESvSwIr1MBW8Trzrqbyy1egKPypjLnyxNH+qBZ+/0/4z/X8BOppD+nBTOuM9iCbgMccf2XqIib7uQODLU/TAtGS1A56bJb08ZXGJdrFhDvBRNZxmkDzxOnijJgwwKqPSAgTfDVIA==" selloCFD="g8S0yGt2UQ/uT8yp1QBuVLrkHDSukJfLaIsng9QQvRQMJ2co3t0Paf+K+vEyxQ3JHm3sUIclE4fB9PxzFYLw517Qqn1Sve8+PBBVEmMAnJj2MGdh3Y/HbKOUwMLq/73mctiw2KQ7mA1lsZv5Ap0/WC45phe8oDB82nZYMfNeA2GpNghogoe7QFFjOLaomFpaufrsdg72z7R+tpHdEiquul4FEB7xZLomHuGlBtLbEEIZ9UwkwfqT8O2KazDnpmn0Qx5FlBRYKlmvF6ZLtSFIr1QyyV2pfAhH6JYUc5LDd1Qmek/I4viodmKO07Xopxi+R34Zh1PDDRJC17aCULBNHg==" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
+	</cfdi:Complemento>
+</cfdi:Comprobante>

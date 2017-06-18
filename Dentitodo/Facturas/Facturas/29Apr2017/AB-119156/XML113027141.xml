@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" metodoDePago="02" LugarExpedicion="MEXICO, CIUDAD DE MEXICO" version="3.2" NumCtaPago="0294 BANCOMER" fecha="2017-04-28T17:48:34" sello="GO+vQgWSHeps4csI0gmrRO2gR1Hrrf9uXsAqsDDL6rj1VsTnQZNHheJITWRdaFa3LrrOANYSoxkVlikONn8riowt7OyHkcmoUjSo/S29BVOCeteAJjtFvKXjf23pab+aS2s8AANkqtUg+iItf1qRURzY9nJTsTLDf0gbbweBByAR7o15T8nNlMTw7Nm8bnawvsq2FYEnE7mClEaVlf/FKcyApVCan7QL2sAXsK2AiJzEFaTeEkaAbiHwcEVGD8d84kNwxkKeakHG4HrhB0lzOj8YsiOMzN8JtoOsvZV68UpKYZWKcSMPSQgshe6OOe6MJduZ1vgR+DByPjLz4fvKGQ==" formaDePago="PAGO EN UNA SOLA EXHIBICION" tipoDeComprobante="ingreso" noCertificado="00001000000402240494" certificado="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" subTotal="111996.510000" total="128380.380000" serie="AB" folio="119156">
+	<cfdi:Emisor rfc="DDV890119HC9" nombre="Deposito Dental Villa de Cortes S.A. de C.V.">
+		<cfdi:DomicilioFiscal calle="Calzada de Tlalpan" noExterior="836" colonia="Villa de Cortes" localidad="México" municipio="Benito Juarez" estado="Ciudad de Mexico" pais="MEXICO" codigoPostal="03530" />
+		<cfdi:RegimenFiscal Regimen="Régimen General de Ley Personas Morales"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="MORR660824G93" nombre="Rosa Isela Mota Robles">
+		<cfdi:Domicilio calle="Juan Rodríguez" noExterior="414" noInterior="6" colonia="Residencial Colón" localidad="Toluca" municipio="Toluca" estado="Estado de Mexico" pais="Mexico" codigoPostal="50120" />
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="AO854-231" descripcion="CADENA GRAY CLOSED" valorUnitario="203.400000" importe="203.400000">
+		<cfdi:InformacionAduanera numero="174738327000411" fecha="2017-02-24" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="AO854-399" descripcion="CADENA SILVER LONG" valorUnitario="203.400000" importe="203.400000">
+		<cfdi:InformacionAduanera numero="164738326001095" fecha="2016-08-10" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="AO857-506C" descripcion="ROLLO ALAMBRE NITINOL .016" valorUnitario="374.320000" importe="374.320000">
+		<cfdi:InformacionAduanera numero="174738327000411" fecha="2017-02-24" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="AO857-504C" descripcion="ROLLO ALAMBRE NITINOL .014" valorUnitario="374.320000" importe="374.320000">
+		<cfdi:InformacionAduanera numero="174738327000411" fecha="2017-02-24" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="30.000000" unidad="PZA" noIdentificacion="AO856-616" descripcion="TIRA ALAMBRE .016" valorUnitario="4.562000" importe="136.860000">
+		<cfdi:InformacionAduanera numero="174738327000411" fecha="2017-02-24" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="25.000000" unidad="PZA" noIdentificacion="AO856-002" descripcion="TIRA ALAMBRE .016 X .022" valorUnitario="13.251600" importe="331.290000">
+		<cfdi:InformacionAduanera numero="154732185000135" fecha="2016-08-10" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="25.000000" unidad="PZA" noIdentificacion="AO856-001" descripcion="TIRA ALAMBRE .016 X .016" valorUnitario="13.251600" importe="331.290000">
+		<cfdi:InformacionAduanera numero="154732185000903" fecha="2016-08-10" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="25.000000" unidad="PZA" noIdentificacion="AO856-006" descripcion="TIRA ALAMBRE .017 X .025" valorUnitario="13.251600" importe="331.290000">
+		<cfdi:InformacionAduanera numero="164738326002343" fecha="2016-08-10" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="15.000000" unidad="PZA" noIdentificacion="3M75101/2" descripcion="VITREBOND 4.5G / 2.75ML PROMOCION" valorUnitario="595.836000" importe="8937.540000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="5.000000" unidad="PZA" noIdentificacion="ADZ420C" descripcion="TOPICAINA ANESTECIA 30GRS CEREZA" valorUnitario="43.680000" importe="218.400000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="5.000000" unidad="PZA" noIdentificacion="ADZ420F" descripcion="TOPICAINA ANESTECIA 30GRS FRESA" valorUnitario="43.680000" importe="218.400000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="4.000000" unidad="PZA" noIdentificacion="ADZ420PC" descripcion="TOPICAINA ANESTECIA 30GRS PIÑA COLADA" valorUnitario="43.680000" importe="174.720000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="4.000000" unidad="PZA" noIdentificacion="ADZ420T" descripcion="TOPICAINA ANESTECIA 30GRS TUTTI FRUTTI" valorUnitario="43.680000" importe="174.720000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="20.000000" unidad="PZA" noIdentificacion="ADZ430B" descripcion="LIDO 2% OMNICAINA ANESTECIA C/50 CARTUCHOS" valorUnitario="147.875000" importe="2957.500000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="21.000000" unidad="PZA" noIdentificacion="ZIZINE8" descripcion="XECAINE AL 3%C/50 CARTUCHOS" valorUnitario="278.741905" importe="5853.580005">
+		<cfdi:InformacionAduanera numero="154338325000388" fecha="2016-11-14" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="VIARPRO200" descripcion="PASTA PROFILAXIS DE 200 GR VIARDEN" valorUnitario="49.820000" importe="49.820000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="VIARPRO200" descripcion="PASTA PROFILAXIS DE 200 GR VIARDEN" valorUnitario="49.820000" importe="49.820000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="PZA" noIdentificacion="VIVA532629" descripcion="HELIOSIT ORTHODONTIC 2.5 GRS" valorUnitario="344.390000" importe="688.780000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="PZA" noIdentificacion="VIVA558519" descripcion="HELIOSEAL F REFILL 1.25 GR." valorUnitario="188.275000" importe="376.550000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="19.000000" unidad="PZA" noIdentificacion="KERR24" descripcion="DYCAL LIFE HIDROXIDO DE CALCIO KERR" valorUnitario="220.596842" importe="4191.339998">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="43.000000" unidad="PZA" noIdentificacion="KM190-0943" descripcion="REVELADOR CARESTREAM." valorUnitario="116.495814" importe="5009.320002">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="120.000000" unidad="PZA" noIdentificacion="MDTFG1/2" descripcion="FRESA CARBURO FG 1/2 MDT" valorUnitario="15.611167" importe="1873.340040">
+		<cfdi:InformacionAduanera numero="174738327000978" fecha="2017-04-19" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="80.000000" unidad="PZA" noIdentificacion="MDTFG1/4" descripcion="FRESA CARBURO FG 1/4 MDT" valorUnitario="15.611250" importe="1248.900000">
+		<cfdi:InformacionAduanera numero="164738326001439" fecha="2016-06-28" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="80.000000" unidad="PZA" noIdentificacion="MDTFG557" descripcion="FRESA CARBURO FG 557 MDT" valorUnitario="15.611250" importe="1248.900000">
+		<cfdi:InformacionAduanera numero="164738326001439" fecha="2016-06-28" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="14.000000" unidad="PZA" noIdentificacion="MDTFG6" descripcion="FRESA CARBURO FG 6 MDT" valorUnitario="15.611429" importe="218.560006">
+		<cfdi:InformacionAduanera numero="174738327000978" fecha="2017-04-19" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="PZA" noIdentificacion="MEDE2018-1" descripcion="WONDER JGO. MEDENTAL" valorUnitario="115.320000" importe="230.640000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="17.000000" unidad="PZA" noIdentificacion="MEDICOM112-EUR-AZ" descripcion="VASOS C/100 PZAS AZUL" valorUnitario="35.301765" importe="600.130005">
+		<cfdi:InformacionAduanera numero="172417137000260" fecha="2017-03-01" aduana="24"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="18.000000" unidad="PZA" noIdentificacion="MEDICOM112-EUR-LI" descripcion="VASOS C/100 PZAS LILA" valorUnitario="35.301667" importe="635.430006">
+		<cfdi:InformacionAduanera numero="162417136001274" fecha="2016-10-06" aduana="24"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="49.000000" unidad="PZA" noIdentificacion="MEDICOM4554-PAT" descripcion="ALGODON CAJA C/2000 ROLLOS" valorUnitario="168.663878" importe="8264.530022">
+		<cfdi:InformacionAduanera numero="161638326001369" fecha="2016-10-14" aduana="16"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="14.000000" unidad="PZA" noIdentificacion="REYSA4" descripcion="LOZETA MEDIANA 8X15X 0.9CM" valorUnitario="10.355000" importe="144.970000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="30.000000" unidad="PZA" noIdentificacion="SOFIC3025" descripcion="BADIJECT AGUJAS C/100 30 corta" valorUnitario="84.645667" importe="2539.370010">
+		<cfdi:InformacionAduanera numero="164338326000323" fecha="2016-11-07" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="11.000000" unidad="PZA" noIdentificacion="CAVEX28" descripcion="JERINGA CARPUL KULZER" valorUnitario="665.633636" importe="7321.969996">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="5.000000" unidad="PZA" noIdentificacion="CAVEXSGR-2" descripcion="GAYZ 453 GRS ALGINATO REPUESTO" valorUnitario="66.838000" importe="334.190000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.000000" unidad="PZA" noIdentificacion="DEDECO6241S" descripcion="PIEDRA MONTADA GIGANTE VERDE MISIL" valorUnitario="13.593333" importe="40.779999">
+		<cfdi:InformacionAduanera numero="154732185000952" fecha="2016-12-14" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="20.000000" unidad="PZA" noIdentificacion="DENSELL3" descripcion="OXIDO DE ZINC C/ENDURECEDOR 65G DENSELL" valorUnitario="37.483000" importe="749.660000">
+		<cfdi:InformacionAduanera numero="164338326000373" fecha="2016-12-01" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.000000" unidad="PZA" noIdentificacion="DENTI17-1" descripcion="ROLLO LIGADURA METALICA # 10 10grs" valorUnitario="13.730000" importe="41.190000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="18.000000" unidad="PZA" noIdentificacion="ETAL-CR" descripcion="AMALGAMA ETALLOY-CR POLVO" valorUnitario="523.250000" importe="9418.500000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="4.000000" unidad="PZA" noIdentificacion="HUTNCIGFT2" descripcion="ESPATULA P/RESINA GOLDSTEIN NO.2, XTS/TITANIO HU-FRIEDY" valorUnitario="319.787500" importe="1279.150000">
+		<cfdi:InformacionAduanera numero="174738327000661" fecha="2017-03-17" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="10.000000" unidad="PZA" noIdentificacion="JOTA1" descripcion="FRESA ZEKRYA JOTA (JET)" valorUnitario="48.638000" importe="486.380000">
+		<cfdi:InformacionAduanera numero="164738326002782" fecha="2016-11-25" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="100.000000" unidad="PZA" noIdentificacion="JWEBH38B" descripcion="CEPILLO PROFI BAJA HP NEGRO" valorUnitario="1.843500" importe="184.350000">
+		<cfdi:InformacionAduanera numero="161638326001112" fecha="2016-08-26" aduana="16"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="200.000000" unidad="PZA" noIdentificacion="JWEBP14WG" descripcion="CEPILLO PROFI CONTRA ANGULO BLANCO" valorUnitario="1.843550" importe="368.710000">
+		<cfdi:InformacionAduanera numero="121632302001713" fecha="2012-11-13" aduana="16"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="KERR11" descripcion="TEMP BOND KERR N.E. BASE50G/CATAL15G" valorUnitario="453.830000" importe="453.830000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="15.000000" unidad="PZA" noIdentificacion="3M14701K" descripcion="FILTEC Z-250 XT INTRO KIT" valorUnitario="1225.706667" importe="18385.600005">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="19.000000" unidad="PZA" noIdentificacion="3M1954" descripcion="TIRAS DE LIJA P/RESINA C/150 3M" valorUnitario="444.448947" importe="8444.529993">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="PZA" noIdentificacion="3M7032A2" descripcion="JERINGA Z-350 XT FLOW CON 2 GRS. A2" valorUnitario="213.330000" importe="426.660000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="21.000000" unidad="PZA" noIdentificacion="7501086453016" descripcion="ENJUAGUE BUCAL COMPLETE MENTA 500ML. ORAL-B" valorUnitario="33.732857" importe="708.389997">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="19.000000" unidad="PZA" noIdentificacion="ABCBADA" descripcion="BANDA MATRIZ TIRAS C/12 NO. 1 (ABC)" valorUnitario="17.258421" importe="327.909999">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="19.000000" unidad="PZA" noIdentificacion="ALT21" descripcion="FLUORDENT 480ML." valorUnitario="24.318947" importe="462.059993">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="19.000000" unidad="PZA" noIdentificacion="ANGEL2" descripcion="MANTAS P/AMALGAMA C/100 PZAS" valorUnitario="16.866842" importe="320.469998">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="6.000000" unidad="PZA" noIdentificacion="ARAIN01-112-304" descripcion="ELEVADOR RECTO MEDIANO No. 304" valorUnitario="66.148333" importe="396.889998">
+		<cfdi:InformacionAduanera numero="17438327000027" fecha="2017-03-10" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="4.000000" unidad="PZA" noIdentificacion="ARAIN01-117-4L" descripcion="ELEVADOR BANDERA # 4L ARAIN" valorUnitario="66.147500" importe="264.590000">
+		<cfdi:InformacionAduanera numero="38325000152" fecha="2015-06-18" aduana="32"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="4.000000" unidad="PZA" noIdentificacion="ARAIN01-117-4R" descripcion="ELEVADOR BANDERA # 4R ARAIN" valorUnitario="66.147500" importe="264.590000">
+		<cfdi:InformacionAduanera numero="164338326000045" fecha="2016-09-12" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="19.000000" unidad="PZA" noIdentificacion="ARAIN02-008-15" descripcion="PINZA CURACION 15 CM ARAIN" valorUnitario="18.388421" importe="349.379999">
+		<cfdi:InformacionAduanera numero="164338326000045" fecha="2016-09-12" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.000000" unidad="PZA" noIdentificacion="ARAIN04-423-00" descripcion="FORCEP # 18R MOLARES - SUP ARAIN" valorUnitario="126.850000" importe="380.550000">
+		<cfdi:InformacionAduanera numero="144338324000230" fecha="2016-09-12" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.000000" unidad="PZA" noIdentificacion="ARAIN04-424-00" descripcion="FORCEP # 17 MOLARES - INF ARAIN" valorUnitario="126.850000" importe="380.550000">
+		<cfdi:InformacionAduanera numero="164338326000045" fecha="2016-09-12" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.000000" unidad="PZA" noIdentificacion="ARAIN04-426-00" descripcion="FORCEP # 18L MOLARES - SUP ARAIN" valorUnitario="126.850000" importe="380.550000">
+		<cfdi:InformacionAduanera numero="144338324000230" fecha="2016-09-12" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.000000" unidad="PZA" noIdentificacion="ARAIN04-428-00" descripcion="FORCEP # 23 MOLARES - INF ARAIN" valorUnitario="126.850000" importe="380.550000">
+		<cfdi:InformacionAduanera numero="164338326000045" fecha="2016-09-12" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.000000" unidad="PZA" noIdentificacion="ARAIN04-446-00" descripcion="FORCEP # 65 ANTERIORES - SUP ARAIN" valorUnitario="126.850000" importe="380.550000">
+		<cfdi:InformacionAduanera numero="164338326000214" fecha="2016-09-12" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.000000" unidad="PZA" noIdentificacion="ARAIN04-454-00" descripcion="FORCEP # 150 ANTER/CANINO/PREMO-SUP ARAIN" valorUnitario="126.850000" importe="380.550000">
+		<cfdi:InformacionAduanera numero="164338326000214" fecha="2016-09-12" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.000000" unidad="PZA" noIdentificacion="ARAIN04-467-00" descripcion="FORCEP # 222 3ER MOLAR -INF ARAIN" valorUnitario="126.850000" importe="380.550000">
+		<cfdi:InformacionAduanera numero="164338326000214" fecha="2016-09-12" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.000000" unidad="PZA" noIdentificacion="ARAIN04-478-00" descripcion="FORCEP # 151SK ARAIN" valorUnitario="126.850000" importe="380.550000">
+		<cfdi:InformacionAduanera numero="17438327000027" fecha="2017-03-10" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="8.000000" unidad="PZA" noIdentificacion="ARAIN05-031-00" descripcion="CK6 ARAIN" valorUnitario="16.308750" importe="130.470000">
+		<cfdi:InformacionAduanera numero="164338326000045" fecha="2016-09-12" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="35.000000" unidad="PZA" noIdentificacion="ARAIN08-013-00" descripcion="EXPLORADOR ARAIN #5" valorUnitario="16.309429" importe="570.830015">
+		<cfdi:InformacionAduanera numero="164338326000214" fecha="2016-09-12" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="10.000000" unidad="PZA" noIdentificacion="ARAIN10-006-00" descripcion="ESPATULA CEMENTO DOBLE ARAIN" valorUnitario="18.122000" importe="181.220000">
+		<cfdi:InformacionAduanera numero="164338326000214" fecha="2016-09-12" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.000000" unidad="PZA" noIdentificacion="ARAIN111" descripcion="ALGODONERA LIMPIO-SUCIO" valorUnitario="129.573333" importe="388.719999">
+		<cfdi:InformacionAduanera numero="164338326000214" fecha="2016-09-12" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="4.000000" unidad="PZA" noIdentificacion="ARAIN13-080-00" descripcion="BRUÑIDOR HUEVO/BOLA 27/29 ARAIN" valorUnitario="20.387500" importe="81.550000">
+		<cfdi:InformacionAduanera numero="17438327000027" fecha="2017-03-10" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="35.000000" unidad="PZA" noIdentificacion="ARAIN24-009-00" descripcion="MANGO DE ESPEJO ARAIN" valorUnitario="12.865429" importe="450.290015">
+		<cfdi:InformacionAduanera numero="164338326000214" fecha="2016-09-12" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="21.000000" unidad="PZA" noIdentificacion="ARAIN517" descripcion="EXCAVADOR #17 ARAIN" valorUnitario="16.309524" importe="342.500004">
+		<cfdi:InformacionAduanera numero="164338326000045" fecha="2016-09-12" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="80.000000" unidad="PZA" noIdentificacion="SSW14967" descripcion="FRESA CARBURO FG 2" valorUnitario="20.012125" importe="1600.970000">
+		<cfdi:InformacionAduanera numero="144732184000766" fecha="2014-01-01" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="4.000000" unidad="PZA" noIdentificacion="ARAIN23-113-00" descripcion="PORTA MATRIZ ARAIN" valorUnitario="41.680000" importe="166.720000">
+		<cfdi:InformacionAduanera numero="164338326000045" fecha="2016-09-12" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="LORMA2-S" descripcion="AMALGAMADOR ELECTRONICO LORMA (GARANTIA DE 2 AÑOS)" valorUnitario="1093.340000" importe="1093.340000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="LORMA2-S" descripcion="AMALGAMADOR ELECTRONICO LORMA (GARANTIA DE 2 AÑOS)" valorUnitario="1093.340000" importe="1093.340000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="HUPKT2" descripcion="INSTRUMENTO P.K. THOMAS 2 HU-FRIEDY" valorUnitario="258.290000" importe="258.290000">
+		<cfdi:InformacionAduanera numero="174738327000661" fecha="2017-03-17" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="19.000000" unidad="PZA" noIdentificacion="VIAR2400305" descripcion="BARNIZ DE COPAL 20ML." valorUnitario="48.637895" importe="924.120005">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="DMPUSA2-S" descripcion="PIEZA DE BAJA MEDIDENTA USA (GARANTIA 6 MESES)" valorUnitario="816.180000" importe="816.180000">
+		<cfdi:InformacionAduanera numero="174738327000307" fecha="2017-02-22" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="DMPUSA2-S" descripcion="PIEZA DE BAJA MEDIDENTA USA (GARANTIA 6 MESES)" valorUnitario="816.180000" importe="816.180000">
+		<cfdi:InformacionAduanera numero="174738327000307" fecha="2017-02-22" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="DMPUSA2-S" descripcion="PIEZA DE BAJA MEDIDENTA USA (GARANTIA 6 MESES)" valorUnitario="816.180000" importe="816.180000">
+		<cfdi:InformacionAduanera numero="174738327000307" fecha="2017-02-22" aduana="47"/>
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="16383.870000">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="16383.870000" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" FechaTimbrado="2017-04-28T17:48:35" UUID="D0037A16-2C64-11E7-ABC5-00155D014009" noCertificadoSAT="00001000000403557578" selloSAT="nluOEcLduJ5XKkqlnyNgO4cuLK1+bMGY+lBSZ7lweoXGP6cLaJFl/G61lEnHMpuaKvvx6bgKtGO9KmDB+r7cV8WKK7zBVVdWFS2a7vcGNtuY+2Sp6wVh6liQi+xQIq46+nlniteEGLoKnQ5JTEr3duJvuuc0oQSyaUD25phvGDc/r7bEy4zNqhaDx8kMasHx4FHrz2fCQJDIbsfxM01+LEN697Sbo0KUIAY+0/Af+n9TqlgClof1KF81vMFcZsyMPdA4mewLwStq2DvBARK8RpPV+uJakipF9pmv15usfgiXoAdYEnuagv8r7+kmH5ecWns+OAh1KOE/ijsv9z6y7w==" selloCFD="GO+vQgWSHeps4csI0gmrRO2gR1Hrrf9uXsAqsDDL6rj1VsTnQZNHheJITWRdaFa3LrrOANYSoxkVlikONn8riowt7OyHkcmoUjSo/S29BVOCeteAJjtFvKXjf23pab+aS2s8AANkqtUg+iItf1qRURzY9nJTsTLDf0gbbweBByAR7o15T8nNlMTw7Nm8bnawvsq2FYEnE7mClEaVlf/FKcyApVCan7QL2sAXsK2AiJzEFaTeEkaAbiHwcEVGD8d84kNwxkKeakHG4HrhB0lzOj8YsiOMzN8JtoOsvZV68UpKYZWKcSMPSQgshe6OOe6MJduZ1vgR+DByPjLz4fvKGQ==" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
+	</cfdi:Complemento>
+</cfdi:Comprobante>

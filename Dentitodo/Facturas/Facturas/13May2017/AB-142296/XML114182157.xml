@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" metodoDePago="02" LugarExpedicion="MEXICO, CIUDAD DE MEXICO" version="3.2" NumCtaPago="NO IDENTIFICADO" fecha="2017-05-13T12:20:30" sello="ItO7/plGcPuCnXnkhON5JBgqayhV+i0BdurkW67uVcK4UHGEFsecasHbPk3CIxR3NRpBEG0UpZm3nAb1tNezK2pgyv+TD2yBTFs1mm1t6grJyvXn2TGdDCibFehprbLigcXfr2jthNx8YZMxKKKr/vrLmdukvntWgkiB/THu+sMBjXI1d0zLc9VpDvCDwZeq1A1Das++GUa7fv6HRl4seS2YxnPz/IJaqI8yiamiGJN/t8aSXioXBIe9m5qO4kapW/A9hKK8sM1cN73+87ZMKF+SxDDiqrfV1hqMli7pzElAwzbSttSR1mnbeNK5mPzBWk70Hsyx6dcZpYMRSiEuBw==" formaDePago="PAGO EN UNA SOLA EXHIBICION" tipoDeComprobante="ingreso" noCertificado="00001000000402240494" certificado="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" subTotal="74524.090000" total="85383.240000" serie="AB" folio="142296">
+	<cfdi:Emisor rfc="DDV890119HC9" nombre="Deposito Dental Villa de Cortes S.A. de C.V.">
+		<cfdi:DomicilioFiscal calle="Calzada de Tlalpan" noExterior="836" colonia="Villa de Cortes" localidad="México" municipio="Benito Juarez" estado="Ciudad de Mexico" pais="MEXICO" codigoPostal="03530" />
+		<cfdi:RegimenFiscal Regimen="Régimen General de Ley Personas Morales"/>
+	</cfdi:Emisor>
+	<cfdi:Receptor rfc="MORR660824G93" nombre="Rosa Isela Mota Robles">
+		<cfdi:Domicilio calle="Juan Rodríguez" noExterior="414" noInterior="6" colonia="Residencial Colón" localidad="Toluca" municipio="Toluca" estado="Estado de Mexico" pais="Mexico" codigoPostal="50120" />
+	</cfdi:Receptor>
+	<cfdi:Conceptos>
+		<cfdi:Concepto cantidad="70.000000" unidad="PZA" noIdentificacion="SSW14979" descripcion="FRESA CARBURO FG 33 1/2" valorUnitario="20.012143" importe="1400.850010">
+		<cfdi:InformacionAduanera numero="124732182000109" fecha="2012-01-10" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="50.000000" unidad="PZA" noIdentificacion="MDTFG4" descripcion="FRESA CARBURO FG 4 MDT" valorUnitario="15.611200" importe="780.560000">
+		<cfdi:InformacionAduanera numero="164738326003114" fecha="2016-12-30" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="50.000000" unidad="PZA" noIdentificacion="MDTFG6" descripcion="FRESA CARBURO FG 6 MDT" valorUnitario="15.611200" importe="780.560000">
+		<cfdi:InformacionAduanera numero="174738327000333" fecha="2017-02-10" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="20.000000" unidad="PZA" noIdentificacion="MDTHP700" descripcion="FRESA CARBURO HP 700 MDT" valorUnitario="19.871000" importe="397.420000">
+		<cfdi:InformacionAduanera numero="164738326002050" fecha="2016-08-25" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="19.000000" unidad="PZA" noIdentificacion="SUB313150-1" descripcion="FOSFATO DE ZINC PROTHOPLAST 32 grs 15 ml." valorUnitario="55.407895" importe="1052.750005">
+		<cfdi:InformacionAduanera numero="174338327000072" fecha="2017-03-11" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="19.000000" unidad="PZA" noIdentificacion="VIARIRM" descripcion="IRM VIARDEN" valorUnitario="165.918421" importe="3152.449999">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="18.000000" unidad="PZA" noIdentificacion="3M14701K" descripcion="FILTEC Z-250 XT INTRO KIT" valorUnitario="1225.706111" importe="22062.709998">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="19.000000" unidad="PZA" noIdentificacion="MEDICOM29" descripcion="EYECTORES DESECHABLES C/100 SIRI" valorUnitario="30.806842" importe="585.329998">
+		<cfdi:InformacionAduanera numero="124338322000042" fecha="2012-02-03" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="19.000000" unidad="PZA" noIdentificacion="ADZ400B" descripcion="LIDOCAINA FD 2% ANESTECIA C/50 CARTUCHO." valorUnitario="147.875263" importe="2809.629997">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="20.000000" unidad="PZA" noIdentificacion="3M41263" descripcion="gel ACIDO GRABADOR JER 3ml SCOTCHBOND" valorUnitario="112.236000" importe="2244.720000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="19.000000" unidad="PZA" noIdentificacion="SUB310125" descripcion="PCA POLICEM PROTHOPLAST 25 grs 15 ml" valorUnitario="64.774737" importe="1230.720003">
+		<cfdi:InformacionAduanera numero="164338326000121" fecha="2016-05-12" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="20.000000" unidad="PZA" noIdentificacion="MEDICOM112-EUR-AZ" descripcion="VASOS C/100 PZAS AZUL" valorUnitario="35.301500" importe="706.030000">
+		<cfdi:InformacionAduanera numero="172417137000260" fecha="2017-03-01" aduana="24"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.000000" unidad="PZA" noIdentificacion="KM527-7967" descripcion="RX PERIAPICAL CARESTREAM C/150 NORMAL (E-SPEED)" valorUnitario="519.196667" importe="1557.590001">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="38.000000" unidad="PZA" noIdentificacion="SHOFUPN0244" descripcion="PIEDRA ARKANSAS FG PN0244 FLAMA SHOFU" valorUnitario="28.061053" importe="1066.320014">
+		<cfdi:InformacionAduanera numero="174738327000806" fecha="2017-03-31" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="JOTA1" descripcion="FRESA ZEKRYA JOTA (JET)" valorUnitario="48.640000" importe="48.640000">
+		<cfdi:InformacionAduanera numero="164738326001150" fecha="2016-05-23" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="38.000000" unidad="PZA" noIdentificacion="MDTFG7714" descripcion="FRESA PROFILAXIS FG # 7714" valorUnitario="52.646579" importe="2000.570002">
+		<cfdi:InformacionAduanera numero="164738326001439" fecha="2016-06-28" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="49.000000" unidad="PZA" noIdentificacion="JOTA1" descripcion="FRESA ZEKRYA JOTA (JET)" valorUnitario="48.637959" importe="2383.259991">
+		<cfdi:InformacionAduanera numero="164738326002782" fecha="2016-11-25" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="PZA" noIdentificacion="3M14701K" descripcion="FILTEC Z-250 XT INTRO KIT" valorUnitario="1225.705000" importe="2451.410000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="26.000000" unidad="PZA" noIdentificacion="ADZ400B" descripcion="LIDOCAINA FD 2% ANESTECIA C/50 CARTUCHO." valorUnitario="147.875000" importe="3844.750000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="10.000000" unidad="PZA" noIdentificacion="MEDICOM112-EUR-AZ" descripcion="VASOS C/100 PZAS AZUL" valorUnitario="35.302000" importe="353.020000">
+		<cfdi:InformacionAduanera numero="172417137000260" fecha="2017-03-01" aduana="24"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="PZA" noIdentificacion="VIAR2400305" descripcion="BARNIZ DE COPAL 20ML." valorUnitario="49.170000" importe="98.340000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="650.000000" unidad="PZA" noIdentificacion="CEPILLOS1" descripcion="CEPILLOS DENTALES ECON. INFANTIL" valorUnitario="1.046892" importe="680.479800">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="KERR10" descripcion="TEMP BOND KERR" valorUnitario="417.170000" importe="417.170000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="PZA" noIdentificacion="DMPUSA4-S" descripcion="PIEZA DE ALTA MEDIDENTA (JONWIN)" valorUnitario="283.885000" importe="567.770000">
+		<cfdi:InformacionAduanera numero="174738327001000" fecha="2017-04-27" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.000000" unidad="PZA" noIdentificacion="DENSELL3" descripcion="OXIDO DE ZINC C/ENDURECEDOR 65G DENSELL" valorUnitario="37.893333" importe="113.679999">
+		<cfdi:InformacionAduanera numero="164338326000373" fecha="2016-12-01" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="10.000000" unidad="PZA" noIdentificacion="MDTFG4" descripcion="FRESA CARBURO FG 4 MDT" valorUnitario="15.783000" importe="157.830000">
+		<cfdi:InformacionAduanera numero="164738326003114" fecha="2016-12-30" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="5.000000" unidad="PZA" noIdentificacion="JOTA1" descripcion="FRESA ZEKRYA JOTA (JET)" valorUnitario="49.172000" importe="245.860000">
+		<cfdi:InformacionAduanera numero="164738326002782" fecha="2016-11-25" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="10.000000" unidad="PZA" noIdentificacion="VIAR2418102" descripcion="LUBRIDENT OIL SPRAY LUBRI MAX DENT" valorUnitario="23.159000" importe="231.590000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="KM190-0943" descripcion="REVELADOR CARESTREAM." valorUnitario="117.780000" importe="117.780000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="NEWPASTPR" descripcion="PASTA PROFILAXIS SABORES C/200" valorUnitario="246.660000" importe="246.660000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="4.000000" unidad="PZA" noIdentificacion="KM527-7967" descripcion="RX PERIAPICAL CARESTREAM C/150 NORMAL (E-SPEED)" valorUnitario="524.897500" importe="2099.590000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="10.000000" unidad="PZA" noIdentificacion="VIAR2407205" descripcion="TABLETA REVELADORA C/SABOR C/100 VIARDEN" valorUnitario="57.897000" importe="578.970000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="10.000000" unidad="PZA" noIdentificacion="ABCCEL50" descripcion="TIRAS DE CELULOIDE C/50" valorUnitario="5.552000" importe="55.520000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="PZA" noIdentificacion="ARAIN01-112-304" descripcion="ELEVADOR RECTO MEDIANO No. 304" valorUnitario="66.875000" importe="133.750000">
+		<cfdi:InformacionAduanera numero="17438327000027" fecha="2017-03-10" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="HUBB27/29" descripcion="BRUÑIDOR HUEVO-BOLA 27/29 HU-FRIEDY" valorUnitario="262.210000" importe="262.210000">
+		<cfdi:InformacionAduanera numero="164738326000453" fecha="2016-08-16" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="PZA" noIdentificacion="ARAIN01-112-301" descripcion="ELEVADOR RECTO DELGADO # 301 ARAIN" valorUnitario="66.875000" importe="133.750000">
+		<cfdi:InformacionAduanera numero="164338326000214" fecha="2016-09-12" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="PZA" noIdentificacion="DDVC17" descripcion="MUFLA TOTAL INFERIOR 28 DE ALUMINIO" valorUnitario="70.585000" importe="141.170000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="PZA" noIdentificacion="DDVC12" descripcion="MUFLA TOTAL SUPERIOR 29 DE ALUMINIO" valorUnitario="70.585000" importe="141.170000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="PZA" noIdentificacion="JJMD2762T" descripcion="SUTURA 3-0 C/24 SEDA 45 X 17CM" valorUnitario="491.725000" importe="983.450000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="10.000000" unidad="PZA" noIdentificacion="ARAIN25-059-00" descripcion="MANGO DE BISTURI NO.3 ARAIN" valorUnitario="10.992000" importe="109.920000">
+		<cfdi:InformacionAduanera numero="17438327000027" fecha="2017-03-10" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="PZA" noIdentificacion="JJM2764T" descripcion="SUTURA 4-0 C/24 SEDA 45 X 17 CM" valorUnitario="491.725000" importe="983.450000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="VAM01-4635" descripcion="OPALESCENCE GO 10%MENTA C/10 APLICAC. SUP/INF" valorUnitario="703.880000" importe="703.880000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="15.000000" unidad="PZA" noIdentificacion="MEDI1" descripcion="CINTA TESTIGO TUK" valorUnitario="27.758667" importe="416.380005">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.000000" unidad="PZA" noIdentificacion="DPM61" descripcion="LIMAS NO. 10 K-COLORINOX 25MM" valorUnitario="160.863333" importe="482.589999">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.000000" unidad="PZA" noIdentificacion="DPM62" descripcion="LIMAS NO. 15 K-COLORINOX 25MM" valorUnitario="160.863333" importe="482.589999">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.000000" unidad="PZA" noIdentificacion="DPM19" descripcion="LIMAS k-FILE 15-40 25 MM" valorUnitario="160.863333" importe="482.589999">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.000000" unidad="PZA" noIdentificacion="DPM16-3" descripcion="LIMAS K-FILE 45-80 25MM" valorUnitario="160.863333" importe="482.589999">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="10.000000" unidad="PZA" noIdentificacion="SSW16001-5" descripcion="FRESA PROFILAXIS # 1" valorUnitario="61.252000" importe="612.520000">
+		<cfdi:InformacionAduanera numero="144732184000730" fecha="2016-08-25" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="3M712-035" descripcion="TRANSBOND ESTUCHE XT KIT C/2 JER. RESINA P/ORTHO P/SECO" valorUnitario="722.080000" importe="722.080000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="PZA" noIdentificacion="HURDCM13A" descripcion="GRAPA #13A P/MOLARES IN-IZQ DENTADA HU-FRIEDY" valorUnitario="117.855000" importe="235.710000">
+		<cfdi:InformacionAduanera numero="174738327000904" fecha="2017-04-10" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="PZA" noIdentificacion="HURDCM12A" descripcion="GRAPA #12A P/MOLARES INF-DER DENTADA" valorUnitario="117.855000" importe="235.710000">
+		<cfdi:InformacionAduanera numero="174738327000904" fecha="2017-04-10" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="PZA" noIdentificacion="FOX324" descripcion="CAJA ORTHO PLASTICO C/CORDON C/24" valorUnitario="100.725000" importe="201.450000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.000000" unidad="PZA" noIdentificacion="CAVEXSGR-4" descripcion="GAYZ 453 grs ALGINATO CHROMATIC" valorUnitario="67.573333" importe="202.719999">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="15.000000" unidad="PZA" noIdentificacion="ARIAS19" descripcion="YESO BLANCA NIEVES C/5 KILOS" valorUnitario="22.206667" importe="333.100005">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="20.000000" unidad="PZA" noIdentificacion="MEDICOM1185EX-B" descripcion="GUANTE DE NITRILO C/50 PARES CHICO MEDICOM" valorUnitario="65.034500" importe="1300.690000">
+		<cfdi:InformacionAduanera numero="171638327000281" fecha="2017-03-07" aduana="16"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="PZA" noIdentificacion="KM867-5332" descripcion="RX PERIAPICAL INFANTIL C/100 (IP-01) CARESTREAM" valorUnitario="460.595000" importe="921.190000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="20.000000" unidad="PZA" noIdentificacion="MEDICOM29" descripcion="EYECTORES DESECHABLES C/100 SIRI" valorUnitario="27.758500" importe="555.170000">
+		<cfdi:InformacionAduanera numero="124338322000042" fecha="2012-02-03" aduana="43"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="3M56943" descripcion="PASTA DE RETRACCION 3M C/3 CAPSULAS" valorUnitario="170.470000" importe="170.470000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="VAM01-0111" descripcion="ASTRINGEDENT SOL/HEMOSTATICA 30 ML" valorUnitario="575.790000" importe="575.790000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="3M58209" descripcion="DUL5 SUP IZQ 1er. MOLAR TEMPORAL" valorUnitario="60.000000" importe="60.000000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="3M58191" descripcion="DUL4 SUP IZQ 1er. MOLAR TEMPORAL" valorUnitario="60.000000" importe="60.000000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="3M58373" descripcion="EUR4 SUP DER 2do. MOLAR TEMPORAL" valorUnitario="60.000000" importe="60.000000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="3M58134" descripcion="DUR4 SUP DER 1er. MOLAR TEMPORAL" valorUnitario="60.000000" importe="60.000000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="3M58324" descripcion="DLL5 INF IZQ 1er. MOLAR TEMPORAL" valorUnitario="60.000000" importe="60.000000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="3M58316" descripcion="DLL4 INF IZQ 1er. MOLAR TEMPORAL" valorUnitario="60.000000" importe="60.000000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="3M58258" descripcion="DLR4 INF DER 1er. MOLAR TEMPORAL" valorUnitario="60.000000" importe="60.000000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="3M58266" descripcion="DLR5 INF DER 1er. MOLAR TEMPORAL" valorUnitario="60.000000" importe="60.000000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="3M58704" descripcion="ELL5 INF IZQ 2do. MOLAR TEMPORAL" valorUnitario="60.000000" importe="60.000000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="3M58696" descripcion="ELL4 INF IZQ 2do. MOLAR TEMPORAL" valorUnitario="60.000000" importe="60.000000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="PESCA9606-02" descripcion="CAJA PLANO 9606" valorUnitario="1117.640000" importe="1117.640000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="PESCA8616-00" descripcion="CAJA PLANO 8616" valorUnitario="633.050000" importe="633.050000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="20.000000" unidad="PZA" noIdentificacion="MEDICOM1185EX-A" descripcion="GUANTE DE NITRILO C/50 PARES EXTRACHICO MEDICOM" valorUnitario="65.034500" importe="1300.690000">
+		<cfdi:InformacionAduanera numero="171638327000281" fecha="2017-03-07" aduana="16"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="PZA" noIdentificacion="7501006731132" descripcion="CEPILLO PRO-SALUD ANTIBACTERIAL 40S C/2 ORAL-B" valorUnitario="42.830000" importe="85.660000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="PZA" noIdentificacion="BUTLER153MW" descripcion="KIT DE VIAJE GUM" valorUnitario="25.775000" importe="51.550000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="2.000000" unidad="PZA" noIdentificacion="3014260014377" descripcion="CEPILLO COMPLETE 5 ACCIONES MEDIANO 40 ORAL-B" valorUnitario="15.070000" importe="30.140000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="7501086494286" descripcion="CEPILLO ORAL-B 60 ORAL-B" valorUnitario="14.670000" importe="14.670000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="4.000000" unidad="PZA" noIdentificacion="3014260318345" descripcion="CEPILLO ADVANTAGE LINEA 3D SUAVE 35 BRILLIANT ORAL-B" valorUnitario="25.380000" importe="101.520000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="7506295355243" descripcion="CEPILLO ORAL-B 35 C/4 ORAL-B" valorUnitario="43.620000" importe="43.620000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="HUBF21" descripcion="LIMA PARA HUESO MILLER 21 HU-FRIEDY" valorUnitario="867.310000" importe="867.310000">
+		<cfdi:InformacionAduanera numero="164738326002504" fecha="2016-08-16" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="BERE3" descripcion="PIEDRA ROSA # 3 C/100 PEREZLETE" valorUnitario="97.160000" importe="97.160000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.000000" unidad="PZA" noIdentificacion="3M41263" descripcion="gel ACIDO GRABADOR JER 3ml SCOTCHBOND" valorUnitario="113.470000" importe="340.410000">
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="3.000000" unidad="PZA" noIdentificacion="AO860-009-1" descripcion="SOLDADURA DE PLATA 1/2 METRO" valorUnitario="53.900000" importe="161.700000">
+		<cfdi:InformacionAduanera numero="134732183000148" fecha="2013-03-07" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="AO850-024" descripcion="MATERIAL P/BANDA .005 X .180" valorUnitario="156.300000" importe="156.300000">
+		<cfdi:InformacionAduanera numero="174738327000139" fecha="2017-01-31" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="10.000000" unidad="PZA" noIdentificacion="AO294-170" descripcion="BOTON C/MALLA RECTO" valorUnitario="19.265000" importe="192.650000">
+		<cfdi:InformacionAduanera numero="164738326002343" fecha="2016-08-10" aduana="47"/>
+		</cfdi:Concepto>
+		<cfdi:Concepto cantidad="1.000000" unidad="PZA" noIdentificacion="AO854-298" descripcion="CADENA SILVER CLOSED" valorUnitario="203.400000" importe="203.400000">
+		<cfdi:InformacionAduanera numero="174738327000411" fecha="2017-02-24" aduana="47"/>
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Impuestos totalImpuestosTrasladados="10859.150000">
+		<cfdi:Traslados>
+			<cfdi:Traslado impuesto="IVA" tasa="16.00" importe="10859.150000" />
+		</cfdi:Traslados>
+	</cfdi:Impuestos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" FechaTimbrado="2017-05-13T12:20:32" UUID="77F12FE5-3800-11E7-8968-00155D014007" noCertificadoSAT="00001000000403557578" selloSAT="FTPWn9PTuxvHjUatW5WA5jYCWQeHOCr6MWhxVMmS0E+K02w4Wxn6AGBPQDuFe5vd9bTriTcAfSiiykdy34seaoxgcGsS3fKwulvW36gZLAjRmrM97bH1h2g8we8TAY4vCGqYBkIngOP2SF6986gilOmV4fsQvefHTwND2ssCJmYgX41EIVYrj5LYrm9JkZe5Sq1DSB8OponPJUBEvIeQnMPH0R8l9FG3lr5i+4k4pcmgohQpW00/WW1Xj7TH4n+RqRWnhqbACoUprUlxQ+mNf9agIxfDyWYt6mJyOIOR2yBneiDlTgt6J6a40Jk/jDyBHaFoeYjn2tPwWVSiwnR9VQ==" selloCFD="ItO7/plGcPuCnXnkhON5JBgqayhV+i0BdurkW67uVcK4UHGEFsecasHbPk3CIxR3NRpBEG0UpZm3nAb1tNezK2pgyv+TD2yBTFs1mm1t6grJyvXn2TGdDCibFehprbLigcXfr2jthNx8YZMxKKKr/vrLmdukvntWgkiB/THu+sMBjXI1d0zLc9VpDvCDwZeq1A1Das++GUa7fv6HRl4seS2YxnPz/IJaqI8yiamiGJN/t8aSXioXBIe9m5qO4kapW/A9hKK8sM1cN73+87ZMKF+SxDDiqrfV1hqMli7pzElAwzbSttSR1mnbeNK5mPzBWk70Hsyx6dcZpYMRSiEuBw==" version="1.0" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
+	</cfdi:Complemento>
+</cfdi:Comprobante>

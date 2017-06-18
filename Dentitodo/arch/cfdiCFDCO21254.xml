@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante version="3.2" fecha="2016-10-31T11:53:37" tipoDeComprobante="ingreso" formaDePago="Pago en una sola exhibición" condicionesDePago="Pago de contado" subTotal="591.270000" TipoCambio="1" Moneda="PESOS" total="641.930000" metodoDePago="01" LugarExpedicion="TOLUCA, ESTADO DE MEXICO" NumCtaPago="0000" serie="CFDCO" folio="21254" noCertificado="00001000000202618769" sello="sdDjgr6gzlzXWH1qyFkhI3moAzd73kdWJG1WtzzlGc49tfFaym06C6eYx9LaYyVW0JvjoQb6LZdrBIw8WBLoF0+TWZhwFkOvjvNjLD9BTZW8sh0Zv0PlbJ5m8Kdj5JJZcL1wXkWCFVU/Nm35snW9Q1Ggs/c35UsdUVMWhCQ0J6U=" certificado="MIIE2DCCA8CgAwIBAgIUMDAwMDEwMDAwMDAyMDI2MTg3NjkwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTIxNDIzMzQwM1oXDTE2MTIxNDIzMzQwM1owggEYMT4wPAYDVQQDEzVQUk9WRUVET1JBIERFIEhPU1BJVEFMRVMgREVMIFZBTExFIERFIFRPTFVDQSBTQSBERSBDVjE+MDwGA1UEKRM1UFJPVkVFRE9SQSBERSBIT1NQSVRBTEVTIERFTCBWQUxMRSBERSBUT0xVQ0EgU0EgREUgQ1YxPjA8BgNVBAoTNVBST1ZFRURPUkEgREUgSE9TUElUQUxFUyBERUwgVkFMTEUgREUgVE9MVUNBIFNBIERFIENWMSUwIwYDVQQtExxQSFY4NzA3Mjk1VDQgLyBNT0JFMzUwMzI4RkgzMR4wHAYDVQQFExUgLyBNT0JFMzUwMzI4TU1DTkxMMDcxDzANBgNVBAsTBlRPTFVDQTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA0lvj5a7YSYitjRAjqy1p6Zv9jdmcSabYgm0ePvtFs0UdXAiGdwo2ESvLBnTvgV+eVGITJbEbHxjCFEAD7eddOaiLuzlbfw938E7xldxT7KeN6KbCZxwLkKK22ta3M3qhbOU7EoRsZIV3oIPmrqnToqFVNrGt2d5mwt01Cq0TC68CAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQEFBQADggEBADqRoxo15YsNP5E8F1FwgfADhlHiJmwn/rwQFF17hpsZ9zxtqAJbwQr5N8AHxkpV0bPpI3Mgew47utBgFBYPocVDUC0zUWPN5u7SuhULb6JEfkLFVep5X8OQ0ypv7VVWGkef9W4lMlXB4P5+sDkYyeLJnyYJLai6SxNci1O85AeVVjW0N7A962AE64V3uhbywTU5uWuccYK4zA2KtEREwEXI6i6LfCWsDc3wRIzp4wdzO6gJukei9zv0KXHVnvnsPTCVEMbfB2KMVegAd6pAwceH3lsDM7saDN9gf4/4env2NebapejRDOF8HqlczLYoylrMi+fbXHLOoBs7KEnMoYU=" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital">
+  <cfdi:Emisor rfc="PHV8707295T4" nombre="PROVEEDORA DE HOSPITALES DEL VALLE DE TOLUCA S.A. DE C.V.">
+    <cfdi:DomicilioFiscal calle="AV MORELOS PTE" noExterior="1405" colonia="SAN BERNARDINO" localidad="TOLUCA" municipio="TOLUCA" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="50080"/>
+    <cfdi:ExpedidoEn calle="AV MORELOS PTE" noExterior="1405" colonia="SAN BERNARDINO" localidad="TOLUCA" municipio="TOLUCA" estado="ESTADO DE MEXICO" pais="MEXICO" codigoPostal="50080"/>
+    <cfdi:RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES"/>
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="MORR660824G93" nombre="MOTA ROBLES ROSA ISELA">
+    <cfdi:Domicilio calle="JUAN RODRIGUEZ" noExterior="114" noInterior="6" colonia="RESIDENCIAL COLON" localidad="TOLUCA" municipio="TOLUCA" estado="MEXICO" pais="MEXICO" codigoPostal="50120"/>
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1.000000" unidad="GALON" noIdentificacion="01-13-02-0004-01" descripcion="ANTIBENZIL JABON QUIRURGICO AL 1%. 4LT. ALTAMIRANO" valorUnitario="82.320000" importe="82.320000">
+      <cfdi:Parte cantidad="1.000000" descripcion="Lote:16-253;"/>
+    </cfdi:Concepto>
+    <cfdi:Concepto cantidad="1.000000" unidad="CAJA CON 12 PIEZAS" noIdentificacion="01-13-06-0002-01" descripcion="AGUA OXIGENADA 1000 ML SELECTA" valorUnitario="190.810000" importe="190.810000">
+      <cfdi:Parte cantidad="1.000000" descripcion="Lote:OX290816P1;"/>
+    </cfdi:Concepto>
+    <cfdi:Concepto cantidad="1.000000" unidad="CJA/20" noIdentificacion="03-01-01-0002-04" descripcion="CLORURO DE SODIO 0.9% 500ML FRESENIUS" valorUnitario="274.630000" importe="274.630000">
+      <cfdi:Parte cantidad="20.000000" descripcion="Lote:73F6F0593;"/>
+    </cfdi:Concepto>
+    <cfdi:Concepto cantidad="1.000000" unidad="CAJA CON 50 PIEZAS" noIdentificacion="04-06-04-0001-02" descripcion="PORTAOBJETOS 25X75 MM DELTALAB" valorUnitario="43.510000" importe="43.510000"/>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="50.660000">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.000000" importe="50.660000"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital selloCFD="sdDjgr6gzlzXWH1qyFkhI3moAzd73kdWJG1WtzzlGc49tfFaym06C6eYx9LaYyVW0JvjoQb6LZdrBIw8WBLoF0+TWZhwFkOvjvNjLD9BTZW8sh0Zv0PlbJ5m8Kdj5JJZcL1wXkWCFVU/Nm35snW9Q1Ggs/c35UsdUVMWhCQ0J6U=" FechaTimbrado="2016-10-31T11:55:48" UUID="520C64BC-14C3-BB84-76E7-91166A8F4AC5" noCertificadoSAT="00001000000202771790" version="1.0" selloSAT="BgXjPGnck/T3SRqZP43olh/ElrHLN3K5zooiA9ZJ51CnOPx+4NGEYVLF57LL/d02jtZg2hFDw/7UK+bYE+kWmmgRyILhMs1iPaP+xNyqW22yVNrQhPfA9I/0m0GXMQ5HD8tHFAg1qtj2p2qyymFc4zPvwFD3L/165URKW3DdMqQ=" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/TimbreFiscalDigital/TimbreFiscalDigital.xsd"/>
+  </cfdi:Complemento>
+</cfdi:Comprobante>
